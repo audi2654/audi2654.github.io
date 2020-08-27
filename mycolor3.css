@@ -1,0 +1,12 @@
+:root{
+    /* MY COLOR 3*/
+	--mainColor:#9e5a63; /* Change this */
+	--secondaryColor:#644e5b; /* Change this */
+	--borderColor: #314455; /* Change this */
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+	--themeDotBorder:#FFFF;
+	--previewBg:rgb(97, 68, 85, 0.6);  /* Change this */
+	--previewShadow:#8f5a66; /* Change this */
+	--buttonColor:#97aabd;
+}
